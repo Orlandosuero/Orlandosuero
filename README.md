@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orlandosuero
 - 👀 I’m interested in Learning ()
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on ()
 - 📫 How to reach me instagram (@Orlandosuero) in Twitter (@Orlandosuero)
 
